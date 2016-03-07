@@ -1,0 +1,19 @@
+LandisData	Species												
+
+>>			Sexual	Shade	Fire	Effective Seed	Maximum Seed	Vegetative 	Sprout Age	Sprout Age	Post-Fire		Common	Scientific
+>>Name	Longevity	Maturity	Tolerance	Tolerance	Dispersal Dist.	Dispersal Dist.	Reprod. Prob.	Minimum	Maximum	Regeneration		Name	Name
+>>-------------------------------------------------------------------------------------------------------------------------------------------------------													
+acerrubr	150	10	4	1	100	1000	0.5	10	140	none	<<	Red Maple	Acer rubrum
+chamthyo	400	12	3	3	183	1000	0.5	5	100	resprout	<<	Atlantic White-cedar	Chamaecyparis thyoides
+nysssylv	200	15	4	2	30	1000	0.75	0	100	none	<<	Blackgum	Nyssa sylvatica
+pinuechi	200	20	1	3	60	500	0.75	5	25	resprout	<<	Shortleaf Pine	Pinus echinata
+pinurigi	200	5	1	4	60	250	0.75	5	60	resprout	<<	Pitch Pine	Pinus rigida
+queralba	300	40	3	3	30	3000	0.5	5	40	resprout	<<	White Oak	Quercus alba
+quercocc	120	20	2	1	30	500	0.5	5	75	resprout	<<	Scarlet Oak	Quercus coccinea
+querfalc	150	25	3	2	30	500	0.75	5	25	resprout	<<	Southern Red Oak	Quercus falcata
+querprin	200	20	3	3	30	500	0.75	5	60	resprout	<<	Chestnut Oak	Quercus prinus
+quervelu	250	20	3	2	30	3000	0.4	5	25	resprout	<<	Black Oak	Quercus velutina
+liqustyr	350	25	2	2	60	180	0.75	5	50	resprout	<<	Sweetgum	Liquidambar styraciflua
+sassalbi	150	10	2	2	30	3000	0.75	5	115	resprout	<<	Sassafras	Sassafras albidum
+querilic	50	5	1	1	30	500	0.75	5	50	resprout	<<	Scrub Oak	Quercus ilicifolia
+quermari	150	5	1	1	30	500	0.75	5	150	resprout	<<	Blackjack oak	Quercus marilandica
