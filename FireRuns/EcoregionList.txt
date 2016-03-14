@@ -1,0 +1,14 @@
+LandisData  Ecoregions
+
+>>         Map
+>> Active  Code  Name   Description
+>> ------  ----  -----  -----------
+      no     0   eco0   "outside universe"
+      no     1   eco1   "non-forested"
+      yes    10  eco10  eco10
+      yes    11  eco11  eco11
+      yes    12  eco12  eco12
+      yes    13  eco13  eco13
+      yes    14  eco14  eco14
+      yes    15  eco15  eco15
+

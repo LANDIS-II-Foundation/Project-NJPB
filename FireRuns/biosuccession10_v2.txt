@@ -1,0 +1,104 @@
+LandisData  "Biomass Succession"
+
+
+Timestep  10
+
+SeedingAlgorithm  WardSeedDispersal
+
+MinRelativeBiomass
+
+>> Shade	Min Relative Biomass (% Maximum Biomass)
+>> Class	by Ecoregions
+>> ----------	--------------------	
+	        eco10   eco11   eco12   eco13   eco14   eco15
+
+	1	30%	30%	30%	30%	30%	30%
+	2	35%	35%	35%	35%	35%	35%
+	3	55%	55%	55%	55%	55%	55%
+	4	80%	80%	80%	80%	80%	80%
+	5	100%	100%	100%	100%	100%	100%
+
+BiomassParameters
+
+>> Species	Leaf		Bole		Mortality
+>>		Longevity	DecayRate	ShapeParam
+>> --------     ---------	---------	>>----------
+   acerrubr	1.0		.1		10
+   chamthyo	4.0		.1		10
+   nysssylv	1.0		.1		10
+   pinuechi	2.25		.1		10
+   pinurigi	2.25		.1		10
+   pinuvirg	2.25		.1		10
+   prunsero	1.0		.1		10
+   queralba	1.0		.1		10
+   quercocc	1.0		.1		10
+   querfalc	1.0		.1		10
+   querprin	1.0		.1		10
+   quervelu	1.0		.1		10
+
+
+EstablishProbabilities
+
+>> Species        Ecoregions
+>>--------      -----------------------------------------------------
+        	eco10	eco11	eco12	eco13	eco14	eco15
+  acerrubr	0.70	0.94	0.71	0.83	0.89	0.81
+  chamthyo	0.42	0.00	0.03	0.14	0.03	0.15
+  nysssylv	0.56	0.18	0.00	0.09	0.17	0.07
+  pinuechi	0.07	0.24	0.05	0.05	0.05	0.05
+  pinurigi	0.75	0.05	0.17	0.45	0.31	0.42
+  pinuvirg	0.02	0.06	0.05	0.05	0.05	0.05
+  prunsero	0.06	0.98	0.28	0.56	0.60	0.35
+  queralba	0.23	0.44	0.18	0.25	0.41	0.17
+  quercocc	0.09	0.24	0.05	0.06	0.08	0.07
+  querfalc	0.04	0.05	0.05	0.05	0.05	0.05
+  querprin	0.02	0.94	0.38	0.64	0.72	0.58
+  quervelu	0.12	1.00	0.33	0.69	0.74	0.51
+   
+MaxANPP
+
+>> Species      Ecoregions
+>> --------     ------------------
+           	eco10   eco11   eco12	eco13	eco14	eco15
+
+acerrubr	873	1054	837	881	871	835
+chamthyo	1081	1120	1048	1093	1099	1058
+nysssylv	979	1165	943	988	989	944
+pinuechi	856	1008	817	864	891	820
+pinurigi	856	1008	817	864	891	820
+pinuvirg	856	1008	817	864	891	820
+prunsero	979	1165	943	988	989	944
+queralba	979	1165	943	988	989	944
+quercocc	979	1165	943	988	989	944
+querfalc	979	1165	943	988	989	944
+querprin	979	1165	943	988	989	944
+quervelu	979	1165	943	988	989	944
+
+		 	   
+LeafLitter:DecayRates
+
+>> Species      Ecoregions
+>> --------     ------------------
+           	eco10   eco11   eco12   eco13   eco14   eco15
+
+   acerrubr	0.999	0.999	0.999	0.999	0.999	0.999
+   chamthyo	0.999	0.999	0.999	0.999	0.999	0.999
+   nysssylv	0.999	0.999	0.999	0.999	0.999	0.999
+   pinuechi	0.999	0.999	0.999	0.999	0.999	0.999
+   pinurigi	0.999	0.999	0.999	0.999	0.999	0.999
+   pinuvirg	0.999	0.999	0.999	0.999	0.999	0.999
+   prunsero	0.999	0.999	0.999	0.999	0.999	0.999
+   queralba	0.999	0.999	0.999	0.999	0.999	0.999
+   quercocc	0.999	0.999	0.999	0.999	0.999	0.999
+   querfalc	0.999	0.999	0.999	0.999	0.999	0.999
+   querprin	0.999	0.999	0.999	0.999	0.999	0.999
+   quervelu	0.999	0.999	0.999	0.999	0.999	0.999
+
+AgeOnlyDisturbances:BiomassParameters ../biomass_age-only-disturbances.txt
+		 	 
+		 	 
+		 	 
+		 	 
+		 	 
+		 	 
+			

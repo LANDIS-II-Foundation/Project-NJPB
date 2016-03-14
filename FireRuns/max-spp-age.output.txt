@@ -1,0 +1,20 @@
+LandisData  "Max Species Age"
+
+
+Timestep   50
+
+MapNames   output/max-spp-age/{species}-{timestep}.gis
+
+Species    acerrubr	
+           chamthyo
+           nysssylv
+           pinuechi
+           pinurigi
+           pinuvirg
+	   prunsero
+           queralba
+           quercocc
+           querfalc
+           querprin
+           quervelu
+

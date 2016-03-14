@@ -1,0 +1,1015 @@
+LandisData "Initial Communities"
+
+MapCode    0
+
+MapCode    1
+
+
+MapCode   13
+pinuechi   13  17  20  23  27  30  37
+quervelu   23
+
+MapCode   14
+pinuechi    3   7  27
+queralba   13  20  30
+querprin   17
+quervelu   23
+
+MapCode   15
+pinurigi   17
+pinuvirg    3   7  10  13
+quercocc   27  30  37
+
+MapCode   16
+pinurigi   10
+pinuvirg   13  17  20  23  27  40
+prunsero   23
+
+MapCode   17
+pinurigi    3   7  13
+acerrubr    7  10  20
+
+MapCode   18
+pinurigi   20
+pinuvirg    3  10  13  17  20  23  27  30  33
+queralba   13  17  20
+quercocc   13  23
+querfalc   17
+quervelu   13  20
+
+MapCode   19
+pinurigi   13  17  20  23  30  33
+quercocc    7
+quervelu   17
+
+MapCode   20
+pinuechi   23
+pinurigi   13  17  20  23  27  30  37  47
+acerrubr   13  17  27  37
+nysssylv   10  13  20  23
+
+MapCode   21
+pinurigi   17  33
+acerrubr    3
+nysssylv   13  17
+
+MapCode   22
+pinurigi   13  17  20  23  37  40  43
+nysssylv    7
+
+MapCode   23
+pinurigi    3   7  10  13  17  20  23  27  30
+nysssylv    3   7
+
+MapCode   24
+pinurigi   37
+nysssylv    3   7  10  13  17  27  33
+
+MapCode   25
+pinurigi    3   7  10  13  17  20  23
+
+MapCode   26
+pinurigi   13  17  20  23  27  30  33  40
+acerrubr    3  13  17  20
+
+MapCode   27
+pinurigi    3  13  17  20  23  27
+
+MapCode   28
+
+
+MapCode   29
+pinurigi    3   7  10  13  17  20  23
+queralba    3   7  10  13
+quercocc    3   7  10
+
+MapCode   30
+pinurigi    3   7  10  13  17  20  23
+
+MapCode   31
+pinurigi    7  10  13  17  20  23  40
+acerrubr    3   7  10  13  17  20
+
+MapCode   32
+pinurigi   17  20  23  27  30
+querprin   17  20
+quervelu   13
+
+MapCode   33
+pinurigi   17  23  27  30
+queralba   17  20  23  27
+quercocc   30  37
+querfalc   23
+quervelu   20
+
+MapCode   34
+pinurigi   13  17  20  27
+acerrubr   20
+
+MapCode   35
+pinurigi    3   7  10  13  17  20  27
+
+MapCode   36
+pinuechi   20  27  30  33
+pinurigi    7  13  17  23  30  33
+
+MapCode   37
+pinurigi    3   7  13  17  20  23  27
+querfalc    3
+quervelu   10  13
+
+MapCode   38
+pinurigi    3   7  10  13  17  20
+
+MapCode   39
+pinurigi    3   7  10  13  17  20  23
+
+MapCode   40
+pinurigi    7  10  13  17  20  23  27
+
+MapCode   41
+pinurigi    3   7  10  13  17  20
+
+MapCode   42
+chamthyo   10  17
+pinurigi    7  13  17  20  23
+acerrubr    7  13
+
+MapCode   43
+pinuechi   27
+pinurigi   13  17  20  23  27  30
+nysssylv   17
+
+MapCode   44
+pinurigi   13  17  20  23  27  30
+querfalc   13  17  20  27
+quervelu   13  23
+
+MapCode   45
+pinurigi    3   7  10  13  17  20
+
+MapCode   46
+pinurigi    3   7  10  13  17  27
+
+MapCode   47
+pinurigi    3  13  17  20  23  33
+
+MapCode   48
+pinurigi    3   7  10  13  17  27
+
+MapCode   49
+pinurigi    3   7  10  13  17  20  23
+
+MapCode   50
+pinurigi   10  13  17  20  23  27  30  33
+queralba   13  17  20
+quercocc   13  17  20
+
+MapCode   51
+pinurigi    7  10  13  17  20
+
+MapCode   52
+pinurigi    3   7
+
+MapCode   53
+chamthyo    3   7  13  17  20  23  27  30  33
+pinurigi   10  13  17  20  23  27  30  37
+acerrubr    3   7  10  13  17  20  23
+nysssylv   17
+
+MapCode   54
+pinurigi    7  10  13  17  20  23
+
+MapCode   55
+pinurigi    3   7  10  13  17  20
+
+MapCode   56
+pinurigi    3  13
+
+MapCode   57
+pinurigi   10  13  17  20  23  30  33
+quercocc   13
+
+MapCode   58
+pinurigi   17  20  23  27  30  33
+
+MapCode   59
+pinurigi   13  17  20  23  27  30
+acerrubr    3  10  13  17
+nysssylv    7  10  13  17
+
+MapCode   60
+pinurigi   10  13  17  20  23  30  33
+queralba   13
+quervelu    3   7  10
+
+MapCode   61
+pinurigi    3  13  17  23  27  30  33
+pinuvirg   20  30
+queralba   17  20  27  33
+
+MapCode   62
+pinurigi   13  17  20  23  27  30  33
+pinuvirg   13  20  23
+acerrubr   20
+prunsero   10
+quercocc   13  17  20  23
+querprin    3   7  20  23
+quervelu   27  33
+
+MapCode   63
+pinurigi    3   7  10  13  17  30
+pinuvirg   10  17
+acerrubr    7  10  17
+queralba   17  20
+
+MapCode   64
+pinurigi   13  17  20  23
+pinuvirg    3   7  10  13  17
+queralba   13  17  20  27
+quercocc   13  17  20  23
+querprin   17  20  23
+
+MapCode   65
+pinurigi   13  17  20  23  27  30  33  40
+queralba   13  23
+
+MapCode   66
+
+
+MapCode   67
+pinurigi    3   7  10  13  17  20
+
+MapCode   68
+pinurigi   10  17
+
+MapCode   69
+pinurigi    3  13  17  20  23
+
+MapCode   70
+pinurigi   13  20  23  27
+acerrubr   13  17
+quervelu   30
+
+MapCode   71
+pinurigi   13  17  20  23  27  30  33  40
+acerrubr    3   7  13  17  20  37
+nysssylv    3   7  10  13  20  27
+queralba    7  37
+
+MapCode   72
+pinurigi   10  13  17  20  23  27  30
+acerrubr    3   7
+nysssylv    3   7
+queralba    7  13  17
+
+MapCode   73
+pinuechi   23  27
+pinurigi   17  20  23  27
+
+MapCode   74
+pinurigi    7  13  17  20  23  30
+queralba   13  33
+quercocc   13
+
+MapCode   75
+pinurigi    7  13  17  20  23  30
+queralba   13
+
+MapCode   76
+pinurigi    3   7  10  13  17  20
+
+MapCode   77
+pinurigi   10  13  17  20  27
+
+MapCode   78
+pinurigi    7  10  13  17  20  23  27  33
+queralba   13
+quercocc    7  13  20
+quervelu   13
+
+MapCode   79
+pinurigi   13  17  20  23  27  30  33
+queralba   10  13  17
+quervelu   17  23
+
+MapCode   80
+pinurigi    3   7  10  13  17  23  27
+
+MapCode   81
+pinurigi   10
+
+MapCode   82
+pinurigi   13  17  20  23  27  30
+quercocc   13  17
+
+MapCode   83
+pinurigi   13  17  23  33  37
+nysssylv   13  17
+
+MapCode   84
+pinurigi   23
+pinuvirg   13  27
+
+MapCode   86
+
+
+MapCode   87
+pinurigi   13  17  20  23  30
+queralba   13
+
+MapCode   88
+pinurigi    3   7  10  13  17  20  23  30
+queralba   17
+quercocc   20
+quervelu   23
+
+MapCode   89
+pinurigi    3   7  10  13  17  20  23  27
+
+MapCode   90
+pinurigi   13  17  20  27
+
+MapCode   91
+chamthyo   13  40
+pinurigi    3   7  10  13  17  20  23
+acerrubr    3   7
+
+MapCode   92
+pinurigi    3   7  10  13  17  20  27  33  43
+acerrubr    3
+nysssylv    3
+
+MapCode   93
+pinurigi    3   7  13  17  20  23
+
+MapCode   94
+pinurigi   13  17  20  23
+queralba    3
+quercocc    3   7  13
+
+MapCode   95
+pinurigi   10  13  17  20
+nysssylv   10
+
+MapCode   96
+pinurigi   10  13  17  20  23  33
+quercocc    7  13  17  23
+
+MapCode   97
+pinurigi    7  13  17  20  23  27  30  33
+prunsero   10
+queralba   13  20  23
+quervelu   13  17  27
+
+MapCode   99
+
+
+MapCode  100
+prunsero    3   7  10  13  17
+
+MapCode  101
+pinurigi   13  17  20  23
+acerrubr    3  10  13
+nysssylv   10  17  20  27  33  37  40
+queralba    7  33
+quercocc   27
+
+MapCode  102
+pinurigi   17  20  23  27  33
+acerrubr    3   7  10  13  23  40
+nysssylv   13  17  20  23  27
+
+MapCode  103
+chamthyo    3  17  20  23  33  37  43  47
+pinurigi   13  23  27  30  33
+acerrubr    3  27
+
+MapCode  104
+pinurigi   20  23  27  30  33
+acerrubr    3  13  23  27
+nysssylv   17  20  23  27  30
+queralba    7  10  13  17
+quercocc    7  10  13  17
+
+MapCode  105
+pinuechi    3
+pinurigi    3  13  17  20  23  30  33  43
+queralba   13  17  23  27
+quercocc   13  17  23
+querfalc   13  20
+quervelu   13  17
+
+MapCode  106
+chamthyo   30
+pinurigi   23  27  30  40  43
+acerrubr    7  13  17  27
+nysssylv   13  17  23  33
+
+MapCode  107
+pinurigi   17  20  27
+queralba    7  13  17  20
+quercocc   27
+quervelu   13
+
+MapCode  108
+chamthyo   17  20
+pinurigi   13  17  20  27  33  37  40
+acerrubr    7  13  17
+nysssylv    3   7  10  13  17  20
+queralba   17  20  23  27
+
+MapCode  109
+pinurigi    7  10  13  17  33
+acerrubr    3   7
+queralba   13  17  20  23  27
+quervelu   17  20  27
+
+MapCode  110
+pinuechi   23
+pinurigi   13  17  23  27  30
+queralba    7  13  17
+quercocc   13  20
+querfalc   20
+
+MapCode  111
+pinurigi   10  13  17  20  23  27  30
+quercocc   10  13  17  33
+
+MapCode  112
+pinurigi   10  13  17  20
+
+MapCode  113
+pinurigi   13  17  20  27
+queralba   13  17  23  30
+quercocc    3   7  10  13  17  20  23
+quervelu   13  17
+
+MapCode  114
+pinurigi   13  17  20  23
+acerrubr    3   7  13  17  20
+
+MapCode  115
+pinurigi   10  13  17  20  23
+quervelu   13  17  20  23  27
+
+MapCode  116
+pinurigi   17  20  23  27  30  43
+acerrubr    3   7  10  13  17  20
+nysssylv    3   7  13  17  23
+
+MapCode  117
+chamthyo    3   7  10  17  20  23  27  33  37
+pinurigi   13  17  20  23
+acerrubr    3  17  20
+
+MapCode  118
+pinurigi    3  20  23
+pinuvirg   13  20  23
+queralba    3  17  20
+quervelu   17  20  27  37  43
+
+MapCode  119
+
+
+MapCode  120
+pinurigi   13  17  20  23  33
+querprin    7  13  17  20
+quervelu   10  13
+
+MapCode  121
+pinurigi    7  10
+prunsero    3  10
+queralba   13  17  20
+quervelu   13
+
+MapCode  122
+pinurigi   10  17  20  27
+nysssylv   13  17  20  27  30
+queralba   13  17  20  23  30
+quercocc   13  17  20
+querfalc   13
+
+MapCode  123
+pinurigi   13  17  20  27  33
+queralba    3   7  13  17  23  27  33
+
+MapCode  124
+pinurigi   23  30  37
+acerrubr   13  17  20  23  33
+nysssylv    3  10  13  17  27  30
+
+MapCode  125
+pinurigi    3   7  10  17  30  33
+queralba   10  13  17  20  23  27
+quervelu   13  17  20  27
+
+MapCode  128
+
+
+MapCode  129
+pinurigi   10  13  17  20  27
+acerrubr   13
+
+MapCode  130
+pinurigi   13  17  20  23  27  30
+pinuvirg   17
+quervelu   10  13  17  23
+
+MapCode  131
+queralba   10  13  17  23
+quercocc   17  20  30
+
+MapCode  132
+pinurigi   13  17  20  23  30  33
+queralba    3   7  10  13  17  20
+quercocc    7  10  13  17  20
+
+MapCode  133
+pinurigi   13  20  23  27  30  40
+queralba    3   7  10  13  17  20
+quercocc   13  23
+querprin   20  23
+quervelu   20
+
+MapCode  134
+pinurigi   13  17  20  23  27  30
+acerrubr   10  13  17  20  23  27
+nysssylv    3   7  10
+
+MapCode  135
+pinurigi   27  33
+queralba   17  20  23  30
+
+MapCode  136
+pinurigi   13  17  20  23  27
+queralba   90
+
+MapCode  137
+pinuechi    3
+pinurigi   30
+queralba   13
+querprin   13
+quervelu   13  17  20  23  27
+
+MapCode  138
+pinurigi   13  17  20  23  27
+quercocc   20  23
+
+MapCode  139
+pinurigi    3  10  17
+quercocc   23
+querprin   17
+quervelu   20  30
+
+MapCode  140
+pinuvirg   20
+queralba   13  17  23  27
+quercocc   13  17  20  23  27
+quervelu   13  17  20  23  27  30
+
+MapCode  141
+pinurigi   13  17  20
+
+MapCode  142
+quercocc   20
+querprin   13  17  23  27
+
+MapCode  143
+queralba   20  23
+
+MapCode  144
+pinurigi   27
+queralba   10  13  17  20  23  27
+quercocc   13  17  23  27
+querprin   17
+quervelu   13  23
+
+MapCode  145
+pinurigi   17
+queralba   13  17  20  23  27  37
+quervelu   13  20  23
+
+MapCode  146
+queralba   17  23
+
+MapCode  147
+pinurigi   13  17  20
+queralba   17  23  27  30
+
+MapCode  148
+queralba    3  13  17  20  23
+quercocc   13
+quervelu   13
+
+MapCode  149
+pinurigi   10  13  17  23  27  30  37
+acerrubr   13  17  23
+prunsero   10
+queralba    3   7  10  13  17  20  23  27  30  33
+quervelu   17
+
+MapCode  150
+pinurigi   13  30  33
+pinuvirg   20
+queralba   13  17  20  23  27  30
+
+MapCode  151
+prunsero    3
+queralba   17  20  23  27  33  37  40
+quervelu   23  27  30
+
+MapCode  152
+pinurigi   13  17  23  30
+queralba   13  17  20  23
+quercocc   20  23
+querfalc   23  27
+quervelu   20
+
+MapCode  153
+prunsero   20
+queralba   20  30
+quervelu    7  20
+
+MapCode  155
+
+
+MapCode  156
+acerrubr   17  20  30
+
+MapCode  157
+acerrubr   27
+prunsero   13
+
+MapCode  158
+
+
+MapCode  159
+pinurigi   13  17  23
+queralba    7  13  17  20
+quercocc    7  10  13  17  20  23
+quervelu   13  17  20
+
+MapCode  160
+pinurigi   17  20
+queralba    3   7  10  13  17  20
+quercocc    3  13  17  20  23  27
+quervelu   13
+
+MapCode  161
+pinurigi   13  27
+queralba   13  20  23  27
+quercocc   13  17  20  23  27  30  37
+quervelu   17  23
+
+MapCode  162
+
+
+MapCode  163
+nysssylv   13  17
+queralba   13  17  20
+quercocc   17  20  23  27
+
+MapCode  164
+nysssylv   13  17
+queralba   17  20  23  33
+quercocc   13  17  20  23  27
+querfalc   20
+
+MapCode  165
+queralba    3  13  17  20  23  30
+quercocc   13  17  20  23  27  30
+querfalc   17
+quervelu   13  20  23
+
+MapCode  166
+queralba    7  17  20  27
+quercocc   13  20  23  27  40
+
+MapCode  167
+queralba    7  13  17  20  23
+quercocc   23  27  33
+querfalc   17  20  23  27
+quervelu   27  30
+
+MapCode  168
+pinurigi    7  13  17  20  23
+queralba   13  17  20
+quercocc   10  13  17  20  23
+querfalc   13  17
+querprin   23
+
+MapCode  169
+
+
+MapCode  170
+acerrubr    3  13  17  40
+
+MapCode  172
+
+
+MapCode  173
+acerrubr    3  13  17  20  23  27  30  33
+nysssylv   13  17  20  23
+
+MapCode  174
+
+
+MapCode  175
+acerrubr   13  17  20  23  30  40  47  50
+nysssylv   30  33
+prunsero   10
+queralba   13  27
+quervelu   20  37
+
+MapCode  176
+pinurigi   13  17  23  33
+queralba   10  13  17  20
+quercocc   13  17  20  27
+querfalc   13  17
+quervelu   13  17  20  23
+
+MapCode  177
+pinurigi   13  20  27  30
+acerrubr    3  13
+nysssylv    3   7  10  13  17  20
+
+MapCode  178
+chamthyo   13  23  30
+pinurigi   47
+nysssylv   27  33
+queralba    3   7  27  77
+quervelu    7
+
+MapCode  179
+pinurigi   13  17  20  23  27  30
+queralba   10  13  17  27
+quercocc   13  17  20  23
+quervelu   13  17  20  23  33
+
+MapCode  180
+chamthyo   10  30
+pinurigi   17  23  27  33
+acerrubr   10  13  17  20  23
+nysssylv   10  13  17  20  23  27
+
+MapCode  181
+pinuechi   23  27  33
+queralba   13  17
+querprin    3  10  13  17
+quervelu    3  13  17  20
+
+MapCode  182
+queralba   10  17  20  23
+quercocc   10  17  20
+querprin   13  17  20
+
+MapCode  183
+acerrubr    3  10  13  17  23
+nysssylv    7  13  17
+queralba   13  17  20  23  27  30  33
+quercocc   13  17  23  30  33
+quervelu   20
+
+MapCode  184
+pinurigi   33
+pinuvirg   17
+prunsero   10
+queralba   20  30
+querprin   17  23  30
+quervelu   13  17  27
+
+MapCode  185
+pinurigi   13  20  37
+queralba   13  20  23
+querprin   23
+quervelu   17  20  30
+
+MapCode  186
+
+
+MapCode  187
+acerrubr    7  17  23  27  30  40
+nysssylv    3  13  17  20  37  43
+
+MapCode  188
+pinurigi   13  20  23  30
+queralba   13  17  20  23  27
+quercocc   27
+querfalc   17  20  23
+quervelu   20
+
+MapCode  189
+pinurigi   13  23
+acerrubr    3  13  17
+nysssylv   13  17  20  27  30  50
+querfalc   17  20  23
+
+MapCode  191
+
+
+MapCode  192
+pinurigi   23  30  37
+acerrubr   13  17  23  27  33  37  47
+nysssylv   13  17  23  27
+quercocc   13  17  20  23  33  37
+
+MapCode  193
+pinurigi   13  20  23
+acerrubr   13  17  20  23  30
+nysssylv   13
+queralba   37
+
+MapCode  194
+acerrubr   40
+queralba   33  70
+
+MapCode  195
+pinurigi   20  23  27  30  33
+acerrubr   13  17  20  23
+nysssylv   13  17  23  37
+queralba   17  20  23  33
+
+MapCode  196
+acerrubr   13  17  20  23  27  33
+nysssylv    3  10  17
+queralba   30
+querprin   27
+
+MapCode  197
+queralba    3   7  13  17  20  23
+quercocc   13  17  20  23
+querfalc   13  50
+quervelu   13  17  20  23  27  30
+
+MapCode  198
+prunsero   10  20
+quervelu   20
+
+MapCode  199
+pinurigi   13  17
+prunsero   10
+querprin    3  13  17  20  23
+quervelu   13  17  20  23
+
+MapCode  200
+pinurigi   37
+acerrubr   13  17  20  23  27  43
+nysssylv    7  30  33
+
+MapCode  201
+queralba   20  23
+querprin   13  17  27
+quervelu   20
+
+MapCode  202
+acerrubr   13  20  27
+prunsero    3  17
+quercocc   40
+quervelu   53
+
+MapCode  203
+pinuechi   23  27  30  33
+pinurigi   20
+acerrubr    3  10  13
+nysssylv   17
+prunsero   10
+queralba   33
+quercocc   30  37
+querprin    7  13  37  43
+quervelu   20
+
+MapCode  204
+pinurigi   10  13  17  23  27  30
+quercocc    3  10  13  40
+quervelu    7  13  17  30  33  40
+
+MapCode  205
+pinurigi    7  10  13  17  20
+quercocc   13  17  20  23  27
+querprin    7  10  13  17  20  23
+quervelu   13  17
+
+MapCode  206
+pinurigi    3  10  13  17
+queralba    7  10  13
+quercocc   13  20
+querprin    7  13  17
+quervelu   17
+
+MapCode  207
+nysssylv   10
+prunsero   10  13  17
+
+MapCode  208
+pinurigi   13  20
+acerrubr   20  27
+nysssylv   13  17  33
+queralba   13  17  20  23  27  33  37
+querfalc   20
+quervelu   40
+
+MapCode  209
+acerrubr   13  17  20  30  37  50
+prunsero   10
+
+MapCode  210
+chamthyo   20  27  33  37  40  43  50
+acerrubr   17  20  27
+
+MapCode  211
+chamthyo   10  13  17  20  23  27  30
+pinurigi   13  17  20
+acerrubr    3   7  10  13
+
+MapCode  212
+chamthyo   17  20  23  27  30  33  37  40  43
+pinurigi   13  17  23
+acerrubr    3  10  13  17  20  27
+
+MapCode  213
+
+
+MapCode  214
+chamthyo   17  20  23  27  30  33  37  40  43  47
+acerrubr   13  17  20  23  27  30  33  37
+nysssylv    3   7  13  17
+
+MapCode  215
+chamthyo   17  20  23  27  30  33  40
+acerrubr   10  13  17  20  27  33
+nysssylv   10  17
+
+MapCode  216
+chamthyo   13  17  20  23  27  30  33  37  40  43
+acerrubr   17
+
+MapCode  217
+chamthyo    3   7  10  13  17  20  23  27  30  33  40
+pinurigi   17
+
+MapCode  218
+chamthyo   27
+pinurigi   33
+acerrubr   10  13  17  20  27  30
+nysssylv   10  13  17  23
+
+MapCode  219
+
+
+MapCode  220
+pinurigi   13  17  20
+prunsero    3
+
+MapCode  221
+acerrubr   13  17  20  23  27  30  33  40  50
+nysssylv    3  33  40
+
+MapCode  222
+
+
+MapCode  223
+acerrubr   13  23  27  30  33
+nysssylv    7  13  17  20  23  27  30  33  37  40
+
+MapCode  224
+acerrubr    7  10  13  17  20  23  27
+nysssylv   13  17  20  23  27  30  33
+
+MapCode  227
+
+
+MapCode  228
+acerrubr   13  20  27  30
+
+MapCode  229
+
+
+MapCode  230
+nysssylv   27
+
+MapCode  231
+
+
+MapCode  232
+chamthyo   17  20  23  27  33  37  43
+acerrubr   13  17  20  23  27  30  33  37
+
+MapCode  233
+chamthyo   17  20  23
+pinurigi   10  13
+acerrubr    7  10  13  17  20  23  27  30
+nysssylv    7
+
+MapCode  234
+acerrubr   10  13  17  20  23  27  30  33  40  43  50
+
+MapCode  236
+
+
+MapCode  237
+acerrubr   13  27  30  40
+nysssylv   17  20  33
+
+MapCode  238
+acerrubr   20  27

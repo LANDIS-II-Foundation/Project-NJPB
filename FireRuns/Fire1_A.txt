@@ -1,0 +1,55 @@
+>> Base Fire plug-in
+
+LandisData  Fire
+
+Timestep  1
+
+>>             ___ Event Size ___   Ignition  Fire Spread
+>> Ecoregion    Max   Mean    Min   Prob.     Age
+>> ---------   ----   ----   ----   --------  --------
+   eco10       4047    61     40   0.00001   540
+   eco11       60700   400    40   0.01500   60    
+   eco12       60700   400    40   0.01900   60    
+   eco13       60700   400    40   0.01500   60
+   eco14       60700   400    40   0.01400   60    
+   eco15       60700   400    40   0.01200   60      
+
+    
+FireCurveTable
+
+>>             Severities (in increasing order)
+>> Ecoregion   S1   S2   S3   S4   S5
+>> ------------------------------------
+    eco10      5    10   40   -1   -1
+    eco11      5    10   30   100  150
+    eco12      5    10   30   100  150   
+    eco13      5    10   30   100  150   
+    eco14      5    10   30   100  150   
+    eco15      5    10   30   100  150   
+
+WindCurveTable
+
+>>             Severities (in decreasing order)
+>> Ecoregion   S5   S4   S3   S2   S1
+>> ------------------------------------
+>>    eco10      1    5   15   20   30
+>>    eco11      1    5   15   20   30
+>>    eco12      1    5   15   20   30
+>>    eco13      1    5   15   20   30
+>>    eco14      1    5   15   20   30
+>>    eco15      1    5   15   20   30
+
+FireDamageTable
+
+>>Cohort Age       FireSeverity - 
+>>% of longevity   FireTolerance
+>>--------------   --------------
+  10%              -2
+  40%              -1
+  85%               0
+  100%              1
+
+MapNames  fire/fire_severity{timestep}.gis
+LogFile   fire/log.csv
+SummaryLogFile   fire/summary-log.csv
+

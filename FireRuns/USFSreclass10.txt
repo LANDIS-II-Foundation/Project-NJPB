@@ -1,0 +1,6 @@
+LandisData  "USFS Reclass Output"
+
+Timestep   10
+
+MapFileNames   output/{reclass-map-name}-{timestep}.gis
+
