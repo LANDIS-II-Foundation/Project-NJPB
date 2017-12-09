@@ -1,0 +1,149 @@
+
+LandisData  "Century Succession"
+
+Timestep  1
+
+SeedingAlgorithm  WardSeedDispersal
+
+InitialCommunities      "fhmem_ic100-test.txt"
+InitialCommunitiesMap   "single_cell_3.img"
+
+ClimateFile	ClimateInputs.txt
+
+CalibrateMode 	yes
+
+WaterDecayFunction Ratio <<Linear or Ratio
+
+AvailableLightBiomass
+
+>> Shade	Percent Max Biomass
+>> Class	by Ecoregions
+>> ----------	--------------------	
+	        uplow  upmed  uphigh wetlow  wetmed wethigh plains
+ 
+	1	30%    30%    30%    30%     30%    30%    30%
+	2	35%    35%    35%    35%     35%    35%    35%		
+	3	55%    55%    55%    55%     55%    55%    55%
+	4	80%    80%    80%    80%     80%    80%    80%
+	5	100%   100%   100%  100%     100%   100%   100%
+
+LightEstablishmentTable
+>> Spp Shade	Probability
+>> Class	by Actual Shade
+>> ----------	--------------------	
+>>		0	1	2	3	4	5
+	1	1.0	0.5	0.25	0.0	0.0	0.0
+	2	1.0	1.0	0.5	0.25	0.0	0.0
+	3	1.0	1.0	1.0	0.5	0.25	0.0
+	4	1.0	1.0	1.0	1.0	0.5	0.25
+	5	0.1	0.5	1.0	1.0	1.0	1.0
+
+SpeciesParameters
+
+>> Species   Funct	N	GDD	GDD	Min	Max	Leaf	Epi-	Leaf	FRoot	Wood	CRoot	Leaf  FRoot Wood  CRoot Littr 	
+>>	     ional	Toler	Min	Max	Jan	Drought	Long	cormic	Lign%	Lign%	Lign%	Lign%	CN    CN    CN    CN    CN	
+>> 	     Type	ance			Temp			re-
+>>           		1=no,3=very					sprout
+>>           		4=Nfixer
+acerrubr	1	N	1260	6600	-18	0.23	1.0	N	0.199	0.255	0.255	0.255	25    45    90    90    45				
+chamthyo	5	N	1940	3169	-30	0.35	4.0	N	0.199	0.2	0.35	0.35	37    50    380   170   42					
+liqustyr	1	N	2660	5993	-1	0.30	1.0	N	0.331	0.255	0.255	0.255	25    45    90    90    45	
+nysssylv	1	N	1910	6960	-2	0.301	1.0	N	0.172	0.255	0.255	0.255	25    45    90    90    45
+pinuechi	2	N	2660	5076	-1	0.423	1.25	N	0.255	0.2	0.35	0.35	50    50    380   170   100					
+pinurigi	2	N	1940	3100	-7	0.307	1.25	Y	0.255	0.2	0.35	0.35	50    50    380   170   100	
+queralba	4	N	1200	5537	-14	0.33	1.0	N	0.367	0.23	0.23	0.23	24    48    500   333   55			
+quercocc	3	N	2037	4571	-7	0.286	1.0	N	0.262	0.23	0.23	0.23	24    48    500   333   55
+querfalc	3	N	2660	5993	2	0.423	1.0	N	0.293	0.23	0.23	0.23	24    48    500   333   55
+querilic	4	N	2660	5993	2	0.423	1.0	N	0.293	0.23	0.23	0.23	24    48    500   333   55
+querprin	3	N	1910	4110	-7	0.285	1.0	N	0.251	0.23	0.23	0.23	24    48    500   333   55
+quervelu	3	N	1500	5076	-14	0.3	1.0	N	0.293	0.23	0.23	0.23	24    48    500   333   55
+quermari	3	N	2493	5537	-1	0.422	1.0	N	0.293	0.23	0.23	0.23	24    48    500   333   55
+sassalbi	1	N	1910	6960	-2	0.30	1.0	N	0.336	0.255	0.255	0.255	25    45    90    90    55	
+
+
+FunctionalGroupParameters  <<from tree.100									Age	Leaf
+>> Name	Index	PPDF1	PPDF2	PPDF3	PPDF4	FCFRAC	BTOLAI	KLAI	MAXLAI	PPRPTS2	PPRPTS3	Wood	Monthly	Mort	Drop
+>> 		T-Mean	T-Max	T-shape	T-shape	leaf						DecayR	WoodMortShape	Month
+HWOOD  	1	22.0	40.0	0.75    10.0	0.5     0.004	4000	25	1.0	0.8	1.00	0.002	10 	9
+PINE  	2	22.0	40.0	1.0	4.0	0.60	0.004	1500	15	0.5	0.5	1.00	0.002	15	10
+SOAKS	3	25.0	45.0	0.75	10.0	0.60	0.005	500	25	0.5	0.5	1.00	0.002	10	10
+NOAKS	4	22.0	40.0	0.75	10.0	0.60	0.002	4500	25	0.5	0.5	1.00	0.002	10	10
+CEDAR   5       24.0    36.0    1.0     3.0     0.5     0.002   4000    20      0.5     0.8     1.00    0.002   10      9
+
+>> Note:  The on-line Century guide and 
+>> default parameters suggest MaxLAI = 20.0
+
+InitialEcoregionParameters
+>> 	SOM1	SOM1	SOM1	SOM1	SOM2	SOM2	SOM3	SOM3	Minrl
+>> 	C	N	C	N	C	N	C	N	N
+>> 	surf	surf	soil	soil
+upmed	78.28	2.80	94.76	9.97	3625.6	75.53	313.12	18.42	3.0
+>>wetmed 130.68	4.36	148.5	15.63	5108.4	121.63	540.54	30.03	3.0
+
+
+
+EcoregionParameters
+>>	Soil	Percent	Percent	Field	Wilt	StormF	BaseF	Drain	Atmos	Atmos	Lat-	Decay   Decay   Decay	 Decay      Denitrif 
+>>	Depth	Clay	Sand	Cap	Point	Fract	Fract		N	N	itude	Rate    Rate    Rate	 Rate	    Slope    
+>>      cm	frac	frac						slope	inter		Surf    SOM1    SOM2	 SOM3
+upmed	100	0.102	0.76	0.143	0.066	0.4	0.1	0.75	0.04	0.05	40.0    0.01    0.05	0.0012	 0.002	    0.01
+>>wetmed 100	0.109	0.727	0.167	0.081	0.65	0.35	0.5	0.08	0.05	40.0    0.02    0.04    0.001	 0.002      0.1233 
+
+
+FireReductionParameters
+>>	Severity	Wood	Litter
+>>	Fire		Reduct	Reduct
+	1		0.0	0.5
+	2		0.05	0.75
+	3		0.2	1.0
+	4		0.5	1.0
+	5		0.8	1.0
+
+   
+MonthlyMaxNPP <<PRDX(3) from Century 4.0 (g Biomass / m2)
+
+>> Species      Ecoregions
+>> --------     ------------------
+ 		uplow	upmed	uphigh	wetlow	wetmed	wethigh	plains	
+acerrubr	225	225	225	125	125	125	55	
+chamthyo	225	225	225	125	125	125	55	
+liqustyr	225	225	225	125	125	125	55	
+nysssylv	225	225	225	125	125	125	55	
+pinuechi	100	100	100	100	100	100	55	
+pinurigi	100	100	100	100	100	100	55	
+queralba	225	225	225	125	125	125	55	
+quercocc	225	225	225	125	125	125	55	
+querfalc	225	225	225	125	125	125	55	
+querilic	225	225	225	125	125	125	55	
+quermari	225	225	225	125	125	125	55	
+querprin	225	225	225	125	125	125	55	
+quervelu	225	225	225	125	125	125	55	
+sassalbi	225	225	225	125	125	125	55	
+
+		 	   
+MaxBiomass
+
+>> Species      Ecoregions
+>> --------     ------------------
+ 		uplow	 upmed	 uphigh	 wetlow	 wetmed	 wethigh plains	
+acerrubr	10000	10000	10000	9500	 9500	 9500	 5000	
+chamthyo	15000	15000	15000	20000	 20000	 20000	 7000	
+liqustyr	8500	8500	8500	10000	 10000	 10000	 4250	
+nysssylv	8500	8500	8500	9500	 9500	 9500	 4250	
+pinuechi	10000	10000	10000	8000	 8000	 8000	 5000	
+pinurigi	10000	10000	10000	8000	 8000	 8000	 5000	
+queralba	10000	10000	10000	9500	 9500	 9500	 5000	
+quercocc	10000	10000	10000	9000	 9000	 9000	 5000	
+querfalc	10000	10000	10000	8500	 8500	 8500	 5000	
+querilic	10000	10000	10000	9500	 9500	 9500	 5000	
+quermari	10000	10000	10000	9500	 9500	 9500	 5000	
+querprin	10000	10000	10000	9500	 9500	 9500	 5000	
+quervelu	10000	10000	10000	9500	 9500	 9500	 5000	
+sassalbi	7000	7000	7000	9500	 9500	 9500	 3500	
+		 	   
+ 	 
+AgeOnlyDisturbances:BiomassParameters  fhmem_bio-reductions-standard.txt
+ 	 
+		 	 
+		 	 
+			

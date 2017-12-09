@@ -1,0 +1,30 @@
+LandisData	"Scenario"	
+
+Duration 	100
+
+Species		"I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\fhmem_species.txt"	
+
+Ecoregions	"I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\fhmem_ecoregion.txt"	
+
+EcoregionsMap	"I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\extract_fhmem51_trial_done.img"	
+
+CellLength	100	<< meters
+
+>> Succession Extension	Initialization File
+>>---------------------------------------------------	
+"Century Succession"		"I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\fhmem_century_succession.txt"
+
+
+>> Disturbance Extensions	Initialization File
+>>---------------------------------------------------	
+"Dynamic Leaf Biomass Fuels"	"I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\fhmem_dynamic_fuels.txt"
+"Dynamic Fire System"		"I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\fhmem_dynamic_fire_baseline.txt"
+>>"Leaf Biomass Insects"      "I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\BiomassInsectsInput.txt"
+
+DisturbancesRandomOrder	no
+
+
+>> Output Extensions	Initialization File
+>>---------------------------------------------------	  
+"Output Leaf Biomass"	    "I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\output-leaf-biomass.txt"
+>>RandomNumberSeed	4357

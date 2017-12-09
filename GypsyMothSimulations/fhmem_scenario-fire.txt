@@ -1,0 +1,30 @@
+LandisData	"Scenario"	
+
+Duration 	100
+
+Species		"I:\Research\Samba\scheller_lab\Lucash\Century-version-3\FHEM_input_files\Fire\fhmem_species.txt"	
+
+Ecoregions	"I:\Research\Samba\scheller_lab\Lucash\Century-version-3\FHEM_input_files\Fire\fhmem_ecoregion.txt"	
+
+EcoregionsMap	"I:\Research\Samba\scheller_lab\Lucash\Century-version-3\FHEM_input_files\Fire\fhmem_eco100.gis"	
+
+CellLength	100	<< meters
+
+>> Succession Extension	Initialization File
+>>---------------------------------------------------	
+"Century Succession"		"I:\Research\Samba\scheller_lab\Lucash\Century-version-3\FHEM_input_files\Fire\fhmem_century_succession.txt"
+
+
+>> Disturbance Extensions	Initialization File
+>>---------------------------------------------------	
+"Dynamic Leaf Biomass Fuels"	"I:\Research\Samba\scheller_lab\Lucash\Century-version-3\FHEM_input_files\Fire\fhmem_dynamic_fuels.txt"
+"Dynamic Fire System"		"I:\Research\Samba\scheller_lab\Lucash\Century-version-3\FHEM_input_files\Fire\fhmem_dynamic_fire_baseline.txt"
+>>"Leaf Biomass Insects"      BiomassInsectsInput.txt
+
+DisturbancesRandomOrder	no
+
+
+>> Output Extensions	Initialization File
+>>---------------------------------------------------	  
+"Output Leaf Biomass"	    "I:\Research\Samba\scheller_lab\Lucash\Century-version-3\FHEM_input_files\Fire\output-leaf-biomass.txt"
+>>RandomNumberSeed	4357

@@ -1,0 +1,40 @@
+If slope=0.3
+
+2012-01-07 12:07:52,746 -    Reading initial communities map "single_cell_3.img" ...
+2012-01-07 12:07:52,836 - totalCflow = 64.97, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,836 - SiteVars.MineralN = 3.74, co2loss = 28.99 - SOM1 : before respiration.
+2012-01-07 12:07:52,836 - SiteVars.MineralN = 6.79 - SOM1 : after respiration.
+2012-01-07 12:07:52,836 - totalCflow = 24.30, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,836 - SiteVars.MineralN = 7.64, co2loss = 10.84 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 8.88 - SOM1 : after respiration.
+2012-01-07 12:07:52,846 - totalCflow = 25.36, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 9.83, co2loss = 11.32 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 11.16 - SOM1 : after respiration.
+2012-01-07 12:07:52,846 - totalCflow = 32.74, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 12.11, co2loss = 14.61 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 13.96 - SOM1 : after respiration.
+2012-01-07 12:07:52,846 - totalCflow = 3.65, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 11.99, co2loss = 1.63 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 12.86 - SOM1 : after respiration.
+2012-01-07 12:07:52,846 - totalCflow = 1.24, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 13.77, co2loss = 0.55 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 13.89 - SOM1 : after respiration.
+2012-01-07 12:07:52,846 - totalCflow = 1.86, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 14.98, co2loss = 0.83 - SOM1 : before respiration.
+2012-01-07 12:07:52,846 - SiteVars.MineralN = 15.08 - SOM1 : after respiration.
+2012-01-07 12:07:52,856 - totalCflow = 1.95, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 15.99, co2loss = 0.87 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 16.10 - SOM1 : after respiration.
+2012-01-07 12:07:52,856 - totalCflow = 1.15, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 16.33, co2loss = 0.51 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 16.39 - SOM1 : after respiration.
+2012-01-07 12:07:52,856 - totalCflow = 3.55, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 16.12, co2loss = 1.58 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 16.31 - SOM1 : after respiration.
+2012-01-07 12:07:52,856 - totalCflow = 4.12, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 16.73, co2loss = 1.84 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 16.95 - SOM1 : after respiration.
+2012-01-07 12:07:52,856 - totalCflow = 1.06, P1CO2_Soil = 0.45 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 18.07, co2loss = 0.47 - SOM1 : before respiration.
+2012-01-07 12:07:52,856 - SiteVars.MineralN = 18.13 - SOM1 : after respiration.
+2012-01-07 12:07:52,866 -    Opening Century calibrate log file "Century-calibrate-log.csv" ...

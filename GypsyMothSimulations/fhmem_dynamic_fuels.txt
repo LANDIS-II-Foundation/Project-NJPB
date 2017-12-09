@@ -1,0 +1,58 @@
+LandisData "Dynamic Leaf Biomass Fuels"
+
+Timestep	5
+
+>>	Fuel
+>> Species	Coefficient
+>>----------------------------------------	
+pinurigi	0.85
+
+
+>> Optional Percent Hardwood Value (%)	
+HardwoodMaximum	5
+
+
+DeadFirMaxAge	0
+
+
+FuelTypes																
+>> Fuel Type	BaseFuel	AgeRange	Species													
+>>-------------------------------------																
+1	Conifer	0 to 400	chamthyo	acerrubr	pinurigi	-queralba	-pinuechi				<< Conifer Wetland - SH3					
+2	Conifer	0 to 400	acerrubr	liqustyr	nysssylv	sassalbi	queralba	quercocc	-pinurigi		<< Hardwood Wetland - SH4					
+4	Conifer	15 to 400	pinurigi	pinuechi	quermari	querilic	-acerrubr				<< Pine Upland - SH8					
+7	Conifer	15 to 400	quercocc	querprin	quervelu	queralba	sassalbi				<< Oak Upland - TL6					
+3	Conifer	15 to 400	querprin	querfalc	quercocc	pinurigi					<< Mixed Upland - SH6					
+5	Conifer	0 to 400	pinurigi	querilic	quermari	queralba	quercocc	querfalc	querprin		<< Pine Plains - SH9					
+8	Conifer	0 to 400	acerrubr	nysssylv	chamthyo						<< Mixed Wetland - TL7					
+9	Conifer	0 to 15	pinurigi	querilic	quermari	queralba	quercocc	querfalc	querprin	pinuechi	quervelu	sassalbi	acerrubr	liqustyr		<< Young Upland Scrub - SH9
+
+
+
+
+EcoregionTable  << Optional Table				
+>> FuelType	Ecoregion  << you can list multiple ecoregions			
+1		wetlow	wetmed	wethigh
+2		wetlow	wetmed	wethigh
+3		uplow	upmed	uphigh
+4		uplow	upmed	uphigh
+5		plains		
+7		uplow	upmed	uphigh
+8		wetlow	wetmed	wethigh
+9		uplow	upmed	uphigh
+
+
+   				
+   				
+   				
+   				
+
+DisturbanceConversionTable		
+>> FuelType	Duration	Prescription (more than one allowed)
+>>-------------------------------------		
+
+
+
+MapFileNames	DFFS-output/FuelType-{timestep}.gis	
+PctConiferFileName	DFFS-output/PctConifer-{timestep}.gis	
+PctDeadFirFileName	DFFS-output/PctDeadFir-{timestep}.gis	

@@ -1,0 +1,15 @@
+LandisData "Leaf Biomass Insects"
+
+Timestep	1
+
+>> SpeciesData
+>> Name		PercentDefoliation
+>>   acersacc	10%
+>>   pinubank	90%
+
+MapNames	Insects/{insectName}-{timestep}.img
+
+LogFile		Insects/Insect-log.csv
+
+InsectInputFiles    "I:\Research\Samba\scheller_lab\Lucash\LANDIS_Input_Files\FHEM_input_files\Insects\insect-defoliator_2.txt" 
+

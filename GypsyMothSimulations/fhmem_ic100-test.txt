@@ -1,0 +1,19 @@
+LandisData   "Initial Communities"
+
+ MapCode 3 
+ 
+ pinurigi  1
+ queralba  1
+ querilic  1
+ chamthyo 1
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

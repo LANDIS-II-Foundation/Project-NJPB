@@ -1,0 +1,31 @@
+LandisData	"Scenario"	
+
+Duration 	100
+
+Species		..\..\fhmem_species.txt	
+
+Ecoregions	..\..\fhmem_ecoregion.txt	
+
+EcoregionsMap	..\..\extract_fhmem51_trial_done.img
+
+CellLength	100	<< meters
+
+>> Succession Extension	Initialization File
+>>---------------------------------------------------	
+"Century Succession"		..\..\fhmem_century_succession_mel_Jan30.txt
+
+
+>> Disturbance Extensions	Initialization File
+>>---------------------------------------------------	
+"Dynamic Leaf Biomass Fuels"	..\..\fhmem_dynamic_fuels.txt
+"Dynamic Fire System"		..\..\fhmem_dynamic_fire_baseline.txt
+"Leaf Biomass Insects"         ..\..\BiomassInsectsInput.txt
+
+DisturbancesRandomOrder	no
+
+
+>> Output Extensions	Initialization File
+>>---------------------------------------------------	
+>>  "Output Leaf Biomass"	    ..\..\output-leaf-biomass.txt
+
+>>RandomNumberSeed	4357

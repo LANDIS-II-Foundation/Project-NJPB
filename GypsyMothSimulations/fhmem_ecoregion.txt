@@ -1,0 +1,14 @@
+LandisData	"Ecoregions"		
+
+>> 	Map		
+>> Active	Code	Name	Description
+>>--------------------------------------------------------			
+no	0	outside		"outside of universe"
+no	1	inactive	"water, agriculture, urban"
+yes	2	uplow		"upland - lowawc"
+yes	3	upmed		"upland - medium awc"
+yes	4	uphigh		"upland - high awc"
+yes	5	wetlow		"wetland - low awc"
+yes	6	wetmed		"wetland - medium awc"
+yes	7	wethigh		"wetland - high awc"
+yes	8	plains		"pine plains"
